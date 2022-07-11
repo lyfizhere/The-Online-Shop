@@ -1,0 +1,26 @@
+{
+  "name": "the-online-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyfizhere/The-Online-Shop.git"
+  },
+  "keywords": [],
+  "author": "Shree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyfizhere/The-Online-Shop/issues"
+  },
+  "homepage": "https://github.com/lyfizhere/The-Online-Shop#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
